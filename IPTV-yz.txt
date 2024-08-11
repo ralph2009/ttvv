@@ -1041,8 +1041,5 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 江苏｜扬州生活频道,http://cm-wshls.homecdn.com/live/8bf.m3u8
 江苏｜宝应新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
 江苏｜宝应生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
-江苏｜扬州城市频道,http://zjtv-wshls.homecdn.com/live/8bd.m3u8
-江苏｜扬州新闻频道,http://zjtv-wshls.homecdn.com/live/8bb.m3u8
-江苏｜扬州生活频道,http://zjtv-wshls.homecdn.com/live/8bf.m3u8
 
 
