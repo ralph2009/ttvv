@@ -18,7 +18,6 @@ CCTV-15音乐,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId= 
 CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV16-4K,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&HlsProfileId= 
