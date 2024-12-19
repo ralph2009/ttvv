@@ -1048,6 +1048,10 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 江苏｜扬州城市频道,http://865833.netsite.cc/proxy/1097047630/1097047630.m3u8
 江苏｜扬州生活频道,http://865833.netsite.cc/proxy/1605855413/1605855413.m3u8
 江苏｜扬州邗江频道,http://865833.netsite.cc/proxy/1768394281/1768394281.m3u8
+江苏｜扬州新闻频道,http://2d026c.tv.netsite.cc/proxy/454285884/454285884.m3u8
+江苏｜扬州城市频道,http://2d026c.tv.netsite.cc/proxy/1097047630/1097047630.m3u8
+江苏｜扬州生活频道,https://epg.pw/stream/10decc04496c688b488ad6827605250728e97d064400e673d58e42d48521cf3b.m3u8
+江苏｜扬州邗江频道,https://epg.pw/stream/ba8d0c0e546c2827068f9b124199f70bdc3ccd0dabb0dc4abf8eca88c6fca13b.m3u8
 江苏｜扬州新闻频道,http://cm-wshls.homecdn.com/live/8bb.m3u8
 江苏｜扬州城市频道,http://cm-wshls.homecdn.com/live/8bd.m3u8
 江苏｜扬州生活频道,http://cm-wshls.homecdn.com/live/8bf.m3u8
